@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/encoder.json</file>
+        <file>resources/hparams.json</file>
+        <file>resources/model_index.json</file>
+        <file>resources/vocab.bpe</file>
+    </qresource>
+</RCC>

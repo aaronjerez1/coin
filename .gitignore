@@ -1,0 +1,37 @@
+# Ignore build directories
+build/
+*.pdb
+*.exe
+*.dll
+*.obj
+
+Desktop_Qt_6_8_0_MinGW_64_bit-Debug/
+Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/
+
+# Ignore large binary files
+*.pdb
+*.exe
+*.obj
+*.o
+*.dll
+
+# Qt Creator specific files
+*.pro.user
+*.qtcsettings
+*.pro.user.*
+*.autosave
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Other temporary files
+*.log
+*.tmp
+
+resources/
+*.bin

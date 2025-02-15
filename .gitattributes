@@ -1,0 +1,1 @@
+build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/coin.pdb filter=lfs diff=lfs merge=lfs -text
